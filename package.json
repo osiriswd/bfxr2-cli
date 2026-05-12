@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "@breezystack/lamejs": "^1.2.7",
+    "clean-css": "^5.3.3",
+    "cleanjs": "^1.0.1",
+    "uglify-js": "^3.19.3"
+  },
+  "name": "bfxr2",
+  "version": "1.0.4",
+  "description": "sound effect generator (Bfxr.net)",
+  "main": "compile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/increpare/bfxr2.git"
+  },
+  "keywords": [
+    "bfxr2",
+    "bfxr",
+    "dsp",
+    "sound",
+    "effects",
+    "audio"
+  ],
+  "author": "increpare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/increpare/bfxr2/issues"
+  },
+  "homepage": "https://github.com/increpare/bfxr2#readme"
+}
